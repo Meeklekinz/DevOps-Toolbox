@@ -16,8 +16,8 @@ DevOps Toolbox is a curated collection of essential tools, scripts, and configur
 ## Table of Contents
 
 - [Ansible](./ansible/README.md)
-<!-- - [Docker](./docker/README.md)
-- [Kubernetes](./kubernetes/README.md)
+- [Docker](./docker/README.md)
+<!-- - [Kubernetes](./kubernetes/README.md)
 - [Terraform](./terraform/README.md)
 - [Jenkins](./jenkins/README.md)
 - [Monitoring](./monitoring/README.md)
