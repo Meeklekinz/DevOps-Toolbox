@@ -39,3 +39,9 @@ To contribute to the project, follow these steps:
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature/my-feature`).
 6. Submit a pull request.
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](./LICENSE).
+
+For details, see the [LICENSE](./LICENSE) file.
