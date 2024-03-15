@@ -39,3 +39,7 @@ docker run -d -p 80:80 --name nginx-server-container --link sample-app-container
 ```
 
 This will start the sample application container and the Nginx server container. The Nginx server will proxy requests to the sample application.
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](../../LICENSE).
