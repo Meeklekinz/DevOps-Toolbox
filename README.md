@@ -4,9 +4,12 @@ DevOps Toolbox is a curated collection of essential tools, scripts, and configur
 
 ## Features
 
-- Shell scripts for automating common deployment tasks.
+<!-- - Shell scripts for automating common deployment tasks. -->
 - Ansible playbooks for infrastructure provisioning and configuration management.
 - Dockerfiles for building containerized applications.
+
+### Coming Soon
+
 - Kubernetes YAML files for deploying applications on Kubernetes clusters.
 - Terraform configurations for managing infrastructure as code.
 - Jenkins pipelines for continuous integration and continuous delivery (CI/CD).
