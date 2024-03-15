@@ -22,3 +22,6 @@ This directory contains Ansible playbooks and related files for automating infra
 
 ```bash
 ansible-playbook -i inventory.ini web_server_setup.yml
+```
+
+This will install Apache web server, ensure it's running, enable it at boot, and copy the index.html file to the appropriate location on the web servers.
