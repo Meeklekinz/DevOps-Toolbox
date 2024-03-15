@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<jenkins>
+  <disabledAdministrativeMonitors/>
+  <globalNodeProperties/>
+  <viewsTabBar class="hudson.views.DefaultViewsTabBar"/>
+  <crumbIssuer class="hudson.security.csrf.DefaultCrumbIssuer"/>
+  <securityRealm class="hudson.security.HudsonPrivateSecurityRealm">
+    <disableSignup>true</disableSignup>
+    <enableCaptcha>false</enableCaptcha>
+  </securityRealm>
+  <markupFormatter class="hudson.markup.EscapedMarkupFormatter"/>
+  <noUsageStatistics>true</noUsageStatistics>
+</jenkins>
