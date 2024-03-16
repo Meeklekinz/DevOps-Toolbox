@@ -4,8 +4,8 @@ This directory contains Kubernetes YAML files for deploying applications on Kube
 
 ## Contents
 
-1. [deployment.yaml](./deployment.yaml): YAML file defining the deployment configuration for the sample application.
-2. [service.yaml](./service.yaml): YAML file defining the service configuration for the sample application.
+1. [deployment.yaml](./deployment.yml): YAML file defining the deployment configuration for the sample application.
+2. [service.yaml](./service.yml): YAML file defining the service configuration for the sample application.
 
 ## Usage
 
