@@ -3,27 +3,27 @@
 DevOps Toolbox is a curated collection of essential tools, scripts, and configurations for DevOps engineers to streamline their workflows, automate tasks, and improve productivity. This project aims to provide a centralized repository of resources that can be easily referenced and utilized by DevOps professionals.
 
 ## Features
+- Documentation and guides for setting up and using each tool and script included in the toolbox.
 
-<!-- - Shell scripts for automating common deployment tasks. -->
 - Ansible playbooks for infrastructure provisioning and configuration management.
 - Dockerfiles for building containerized applications.
 - Jenkins pipelines for continuous integration and continuous delivery (CI/CD).
+- Kubernetes YAML files for deploying applications on Kubernetes clusters.
 
 ### Coming Soon
-- Kubernetes YAML files for deploying applications on Kubernetes clusters.
-- Terraform configurations for managing infrastructure as code.
 - Monitoring and logging configurations using tools like Prometheus, Grafana, and ELK stack.
-- Documentation and guides for setting up and using each tool and script included in the toolbox.
+- Shell scripts for automating common deployment tasks.
+- Terraform configurations for managing infrastructure as code.
 
 ## Table of Contents
 
 - [Ansible](./ansible/README.md)
 - [Docker](./docker/README.md)
 - [Jenkins](./jenkins/README.md)
-<!-- - [Kubernetes](./kubernetes/README.md)
-- [Terraform](./terraform/README.md)
-- [Monitoring](./monitoring/README.md)
-- [Scripts](./scripts/README.md) -->
+- [Kubernetes](./kubernetes/README.md)
+<!-- - [Monitoring](./monitoring/README.md)
+- [Scripts](./scripts/README.md)
+- [Terraform](./terraform/README.md) -->
 
 ## Usage
 
