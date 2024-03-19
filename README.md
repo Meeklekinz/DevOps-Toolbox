@@ -9,9 +9,9 @@ DevOps Toolbox is a curated collection of essential tools, scripts, and configur
 - Dockerfiles for building containerized applications.
 - Jenkins pipelines for continuous integration and continuous delivery (CI/CD).
 - Kubernetes YAML files for deploying applications on Kubernetes clusters.
+- Monitoring and logging configurations using tools like Prometheus, Grafana, and ELK stack.
 
 ### Coming Soon
-- Monitoring and logging configurations using tools like Prometheus, Grafana, and ELK stack.
 - Shell scripts for automating common deployment tasks.
 - Terraform configurations for managing infrastructure as code.
 
@@ -21,8 +21,8 @@ DevOps Toolbox is a curated collection of essential tools, scripts, and configur
 - [Docker](./docker/README.md)
 - [Jenkins](./jenkins/README.md)
 - [Kubernetes](./kubernetes/README.md)
-<!-- - [Monitoring](./monitoring/README.md)
-- [Scripts](./scripts/README.md)
+- [Monitoring](./monitoring/README.md)
+<!-- - [Scripts](./scripts/README.md)
 - [Terraform](./terraform/README.md) -->
 
 ## Usage
